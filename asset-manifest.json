@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HousseinHmila/calculator.git/static/css/main.2758cb9b.css",
+    "main.js": "/HousseinHmila/calculator.git/static/js/main.8bba9d84.js",
+    "static/js/787.85bb9051.chunk.js": "/HousseinHmila/calculator.git/static/js/787.85bb9051.chunk.js",
+    "index.html": "/HousseinHmila/calculator.git/index.html",
+    "main.2758cb9b.css.map": "/HousseinHmila/calculator.git/static/css/main.2758cb9b.css.map",
+    "main.8bba9d84.js.map": "/HousseinHmila/calculator.git/static/js/main.8bba9d84.js.map",
+    "787.85bb9051.chunk.js.map": "/HousseinHmila/calculator.git/static/js/787.85bb9051.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2758cb9b.css",
+    "static/js/main.8bba9d84.js"
+  ]
+}
